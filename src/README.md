@@ -11,4 +11,5 @@ The combination of AI and AR can lead to the development of more intelligent AR 
 This book provides an overview of the latest research in AI and AR and explores how these technologies can be used together to build more intelligent AR systems. We will cover topics such as computer vision, natural language processing, gesture recognition, spatial computing, and more. By the end of this book, you will have a better understanding of the potential of AI and AR to transform the way we interact with the world around us.
 
 In the following chapters, we will delve deeper into the various components that make up intelligent AR systems and provide practical examples of how they can be used. We hope that this book will inspire you to explore the possibilities of AI and AR and encourage you to develop your own intelligent AR applications.
+
 MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.

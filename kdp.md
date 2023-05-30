@@ -14,11 +14,8 @@ This book provides an overview of the latest research in AI and AR and explores 
 
 In the following chapters, we will delve deeper into the various components that make up intelligent AR systems and provide practical examples of how they can be used. We hope that this book will inspire you to explore the possibilities of AI and AR and encourage you to develop your own intelligent AR applications.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
-
-
-Sure, here are 20 Amazon search keywords related to the book "Artificial Intelligence and Augmented Reality: Building Intelligent AR Systems That Enhance the User Experience":
 
 1. Artificial intelligence
 2. Augmented reality

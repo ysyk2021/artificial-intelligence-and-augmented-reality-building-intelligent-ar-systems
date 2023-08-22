@@ -1,5 +1,4 @@
-Object Recognition and Tracking
-===================================================================================
+
 
 Object recognition and tracking are key technologies for building intelligent augmented reality (AR) systems with artificial intelligence (AI). In this chapter, we will explore the basics of object recognition and tracking in AI in AR, including the algorithms and techniques used to enable these capabilities.
 

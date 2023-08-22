@@ -1,8 +1,6 @@
-Deep Learning Techniques
-===========================================================================
 
-Introduction
-------------
+
+
 
 Artificial intelligence (AI) is a rapidly growing field that has the potential to revolutionize many industries, including augmented reality (AR). Deep learning techniques are a subset of AI that have gained widespread attention and adoption in recent years. This chapter will provide an overview of deep learning techniques and their applications in AR.
 

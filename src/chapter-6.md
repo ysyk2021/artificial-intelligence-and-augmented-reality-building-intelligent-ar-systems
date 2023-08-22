@@ -1,8 +1,6 @@
-Chapter 5: Industry Applications of Intelligent AR Systems
-==========================================================
 
-Introduction
-------------
+
+
 
 Intelligent augmented reality (AR) systems have the potential to revolutionize various industries by providing new applications and services that enhance the user experience. In this chapter, we will explore some of the industry applications of intelligent AR systems.
 

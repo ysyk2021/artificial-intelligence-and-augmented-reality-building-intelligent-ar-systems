@@ -1,5 +1,4 @@
-Chapter 2: Foundations of Augmented Reality
-===========================================
+
 
 Augmented Reality (AR) is a technology that enhances the real world by overlaying digital information, such as images, sounds, and videos. This chapter provides an introduction to the foundations of AR, including its history, hardware and software components, design principles, and applications.
 

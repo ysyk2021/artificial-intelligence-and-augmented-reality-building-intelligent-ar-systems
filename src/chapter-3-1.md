@@ -1,8 +1,6 @@
-History of AR
-==========================================================
 
-Introduction
-------------
+
+
 
 Augmented reality (AR) has been around for quite some time, but it wasn't until the last decade that it started gaining popularity and widespread adoption. This chapter will provide a historical overview of AR and its roots, starting from the early days of computer graphics and virtual reality.
 

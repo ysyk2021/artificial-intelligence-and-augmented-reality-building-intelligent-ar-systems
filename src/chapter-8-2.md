@@ -1,5 +1,4 @@
-Recommendations for Building Intelligent AR Systems with AI
-=======================================================================
+
 
 As we have seen throughout this book, the integration of artificial intelligence (AI) and augmented reality (AR) has the potential to revolutionize the way we interact with our environment. However, building intelligent AR systems with AI requires careful consideration of ethical and social implications, as well as user experience design.
 

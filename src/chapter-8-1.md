@@ -1,5 +1,4 @@
-Summary of Key Points
-=================================
+
 
 In this book, we have explored the intersection of two exciting fields - Artificial Intelligence and Augmented Reality. We have seen how these two technologies can be combined to create intelligent AR systems that enhance the user experience in numerous ways.
 

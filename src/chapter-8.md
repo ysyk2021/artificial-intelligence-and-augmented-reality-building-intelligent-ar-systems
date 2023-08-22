@@ -1,5 +1,4 @@
-Conclusion
-==========
+
 
 Summary of Key Points
 ---------------------

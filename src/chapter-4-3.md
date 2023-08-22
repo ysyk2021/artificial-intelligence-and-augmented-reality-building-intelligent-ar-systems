@@ -1,5 +1,4 @@
-Scene Understanding and Reconstruction
-==========================================================================================
+
 
 In this chapter, we will discuss the use of Artificial Intelligence (AI) in building intelligent Augmented Reality (AR) systems. Specifically, we will focus on scene understanding and reconstruction, which are crucial components of AR systems that enhance the user experience.
 

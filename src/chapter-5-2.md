@@ -1,5 +1,4 @@
-Cloud Computing and AR
-======================================================================
+
 
 Augmented reality (AR) has the potential to transform many industries by providing new and innovative ways for users to interact with their environment. However, in order to fully realize this potential, AR systems must be able to integrate with other technologies such as cloud computing. In this chapter, we will explore how cloud computing can be used to enhance AR systems and provide new opportunities for developers.
 

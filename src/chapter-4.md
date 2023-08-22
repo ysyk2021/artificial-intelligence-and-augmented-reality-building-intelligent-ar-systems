@@ -1,5 +1,4 @@
-Chapter 3: Building Intelligent AR Systems with AI
-==================================================
+
 
 Introduction to AI in AR
 ------------------------

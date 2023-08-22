@@ -1,5 +1,4 @@
-Definition and Overview of Augmented Reality (AR)
-===============================================================
+
 
 Augmented reality (AR) is a technology that overlays digital information and virtual elements on top of the real-world environment in real-time. It allows users to enhance their perception of reality by providing additional context, information, and interactivity through a variety of devices such as smartphones, tablets, smart glasses, and head-mounted displays.
 

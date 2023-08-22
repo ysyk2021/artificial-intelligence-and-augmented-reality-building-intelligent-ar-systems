@@ -1,5 +1,4 @@
-Internet of Things (IoT) and AR
-===============================================================================
+
 
 The Internet of Things (IoT) is a network of connected devices that communicate with each other to exchange data. Augmented reality (AR) technology has the potential to enhance IoT by providing users with new and innovative ways to interact with their environment. In this chapter, we will explore how AR can be integrated with IoT to provide new opportunities for developers and users.
 

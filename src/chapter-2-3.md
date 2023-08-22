@@ -1,5 +1,4 @@
-Natural Language Processing (NLP) Fundamentals
-=================================================================================================
+
 
 Artificial Intelligence (AI) and Augmented Reality (AR) are two rapidly growing fields that have the potential to revolutionize the way we interact with technology. In this chapter, we will focus on one of the fundamental components of AI: Natural Language Processing (NLP).
 

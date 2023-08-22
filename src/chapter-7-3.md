@@ -1,5 +1,4 @@
-Social and Cultural Impact
-==================================================================================
+
 
 As the use of artificial intelligence (AI) in augmented reality (AR) continues to grow, it is important to consider the ethical and social implications of this technology. In this chapter, we will explore the social and cultural impact of AI in AR, including issues related to privacy, bias, and cultural sensitivity.
 

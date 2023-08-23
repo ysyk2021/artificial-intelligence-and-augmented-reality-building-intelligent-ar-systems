@@ -1,5 +1,4 @@
 
-
 Augmented reality (AR) is a technology that overlays digital information and virtual elements on top of the real-world environment in real-time. It allows users to enhance their perception of reality by providing additional context, information, and interactivity through a variety of devices such as smartphones, tablets, smart glasses, and head-mounted displays.
 
 AR combines computer-generated graphics, audio, and other sensory inputs with the user's physical environment, creating a seamless and interactive experience that blurs the line between the digital and physical worlds. This technology has been used in various fields such as entertainment, education, healthcare, and retail, among others.

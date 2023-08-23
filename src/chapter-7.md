@@ -1,5 +1,4 @@
 
-
 The integration of Artificial Intelligence (AI) and Augmented Reality (AR) has opened new horizons in technological development. However, it has also brought about ethical and social implications that need to be addressed. This chapter examines the ethical and social implications of AI in AR and outlines possible future directions and challenges.
 
 Privacy and Data Protection

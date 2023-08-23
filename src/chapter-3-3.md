@@ -1,5 +1,4 @@
 
-
 Augmented reality (AR) technology has the potential to transform many industries, providing new and innovative ways for users to interact with their environment. However, designing and developing effective AR systems requires a unique set of principles and considerations. In this chapter, we will explore some of the key principles of AR design and development.
 
 Principle 1: Understanding User Needs

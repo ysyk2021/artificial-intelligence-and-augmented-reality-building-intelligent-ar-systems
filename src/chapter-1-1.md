@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that would typically require human intelligence, such as perception, reasoning, learning, decision-making, and natural language processing. AI has been around for several decades, but recent advances in machine learning and deep learning have propelled its growth and impact on society.
 
 The field of AI is broad and encompasses many subfields, including natural language processing, computer vision, robotics, expert systems, and machine learning. These subfields work together to develop intelligent systems that can learn from data, reason about complex problems, and interact with humans in a natural way.

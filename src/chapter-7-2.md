@@ -1,7 +1,4 @@
 
-
-
-
 As augmented reality (AR) systems become more intelligent and capable, it is important to consider the safety and security implications of incorporating artificial intelligence (AI). In this chapter, we will explore the ethical and social implications of AI in AR, specifically related to safety and security.
 
 Safety Issues in AI-Enabled AR Systems

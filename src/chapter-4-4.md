@@ -1,7 +1,4 @@
 
-
-
-
 Artificial intelligence (AI) has the potential to revolutionize the way we interact with augmented reality (AR) systems. By incorporating AI into AR, we can create more intelligent and personalized interactions that enhance the user experience. In this chapter, we will explore how AI can be used to build intelligent AR systems and design better user experiences.
 
 Understanding Intelligent Interaction

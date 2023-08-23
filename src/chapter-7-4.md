@@ -1,7 +1,4 @@
 
-
-
-
 The integration of artificial intelligence (AI) and augmented reality (AR) has the potential to revolutionize the way we interact with the world around us. However, as this technology continues to develop and become more widespread, it is important to consider the ethical and social implications that may arise.
 
 Ethical Implications

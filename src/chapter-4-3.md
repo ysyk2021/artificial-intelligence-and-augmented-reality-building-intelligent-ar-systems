@@ -1,5 +1,4 @@
 
-
 In this chapter, we will discuss the use of Artificial Intelligence (AI) in building intelligent Augmented Reality (AR) systems. Specifically, we will focus on scene understanding and reconstruction, which are crucial components of AR systems that enhance the user experience.
 
 Scene Understanding
@@ -24,5 +23,3 @@ Integrating scene understanding and reconstruction is crucial for building intel
 AI techniques such as deep learning can be used to integrate scene understanding and reconstruction in AR systems. Deep learning algorithms can analyze the 3D model of the environment created by scene reconstruction and identify objects within it. This information can then be used to augment the real-world scene with virtual objects that are accurately placed and realistically integrated.
 
 In conclusion, scene understanding and reconstruction are crucial components of intelligent AR systems that enhance the user experience. AI techniques such as computer vision, machine learning, SfM, SLAM, and deep learning are used to achieve these goals. By integrating scene understanding and reconstruction, AR systems can create more accurate and realistic augmented experiences.
-
-

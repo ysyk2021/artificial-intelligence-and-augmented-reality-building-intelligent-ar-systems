@@ -1,7 +1,4 @@
 
-
-
-
 Artificial intelligence (AI) is a rapidly growing field that has the potential to revolutionize many industries, including augmented reality (AR). Deep learning techniques are a subset of AI that have gained widespread attention and adoption in recent years. This chapter will provide an overview of deep learning techniques and their applications in AR.
 
 What is Deep Learning?
@@ -28,5 +25,3 @@ Conclusion
 ----------
 
 Deep learning techniques are a powerful tool for building intelligent AR systems that enhance the user experience. By training neural networks on large datasets of image and video data, deep learning techniques such as CNNs, RNNs, and GANs can be used to recognize and track objects, enable voice-based interaction, and generate realistic virtual content. As deep learning technology continues to evolve and improve, we can expect to see even more innovative and exciting AR applications in the future.
-
-

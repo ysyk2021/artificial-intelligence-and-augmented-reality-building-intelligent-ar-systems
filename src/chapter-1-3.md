@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) and Augmented Reality (AR) are two rapidly evolving technologies that have the potential to revolutionize many industries. Both technologies have their own unique benefits, but when combined, they can create a truly immersive and intelligent user experience.
 
 AI refers to the ability of machines to learn from data and make decisions based on that learning. This includes machine learning, deep learning, natural language processing, and computer vision. AR, on the other hand, involves overlaying digital content onto the physical world, creating an enhanced experience for the user.

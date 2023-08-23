@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) and Augmented Reality (AR) are two of the most exciting and rapidly advancing technologies of our time. Combining these two technologies can lead to the development of intelligent AR systems that can enhance the user experience in ways never seen before. In this book, we will explore the intersection of AI and AR and how they can be used together to build more intelligent and intuitive AR systems.
 
 Augmented Reality is a technology that overlays digital information on the physical world. It enables users to interact with virtual objects and data in real-time, enhancing their perception of reality. AR has many applications, including gaming, education, healthcare, and marketing.

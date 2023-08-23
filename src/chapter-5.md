@@ -1,7 +1,4 @@
 
-
-
-
 In this chapter, we will explore the integration of augmented reality (AR) with other emerging technologies. The integration of AR with these technologies has the potential to create new user experiences and revolutionize various industries. We will discuss how the Internet of Things (IoT), cloud computing, virtual reality (VR), and blockchain can be integrated with AR to enhance the user experience.
 
 Internet of Things (IoT) and AR

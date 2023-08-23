@@ -1,7 +1,4 @@
 
-
-
-
 Augmented Reality (AR) technology has been consistently evolving over the past few years, leading to a significant increase in its adoption and use. In parallel, blockchain technology has also emerged as a revolutionary technology that has the potential to transform various industries. The integration of blockchain with AR can lead to a new range of possibilities, such as secure data sharing, decentralized AR experiences, and more.
 
 In this chapter, we will explore the integration of blockchain with AR technology, its benefits, and some real-world applications.

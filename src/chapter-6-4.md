@@ -1,5 +1,4 @@
 
-
 The entertainment and gaming industries have been quick to embrace intelligent augmented reality (AR) systems, using them to enhance user experiences and provide new forms of entertainment. In this chapter, we will explore some of the most exciting industry applications of intelligent AR systems in entertainment and gaming.
 
 Intelligent AR Systems for Virtual Reality Gaming

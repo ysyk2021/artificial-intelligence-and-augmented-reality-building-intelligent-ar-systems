@@ -1,7 +1,5 @@
 
 
-Artificial intelligence (AI) has the potential to revolutionize augmented reality (AR) by enabling intelligent AR systems that can understand and respond to their environment. In this chapter, we will introduce the basics of AI in AR, including the technologies that enable intelligent AR, the types of applications that can be built using AI in AR, and the challenges associated with implementing AI in AR.
-
 Technologies for AI in AR
 -------------------------
 

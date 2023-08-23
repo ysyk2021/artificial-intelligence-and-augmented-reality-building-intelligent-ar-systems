@@ -1,8 +1,5 @@
 
-
 Artificial Intelligence (AI) and Augmented Reality (AR) technologies have gained increased attention in recent years. These technologies offer unique opportunities to enhance the user experience across various industries, including education and training. In this chapter, we will explore the potential applications of intelligent AR systems in education and training.
-
-
 
 Intelligent AR systems can provide an immersive and interactive learning experience for students and trainees. The combination of AI and AR technologies enables the creation of personalized, adaptive, and engaging educational content. This chapter will examine several industry applications of intelligent AR systems in education and training.
 

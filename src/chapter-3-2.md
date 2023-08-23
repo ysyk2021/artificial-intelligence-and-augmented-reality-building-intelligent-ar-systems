@@ -1,7 +1,4 @@
 
-
-
-
 Augmented reality (AR) technology relies on a combination of hardware and software to create immersive digital experiences that enhance the user's perception of the real world. This chapter will provide an overview of the hardware and software components that are essential for building intelligent AR systems.
 
 AR Hardware Components

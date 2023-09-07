@@ -12,3 +12,7 @@ This book provides an overview of the latest research in AI and AR and explores 
 In the following chapters, we will delve deeper into the various components that make up intelligent AR systems and provide practical examples of how they can be used. We hope that this book will inspire you to explore the possibilities of AI and AR and encourage you to develop your own intelligent AR applications.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

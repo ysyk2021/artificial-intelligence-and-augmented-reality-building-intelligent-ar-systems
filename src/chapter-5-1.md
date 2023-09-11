@@ -1,5 +1,4 @@
-Chapter: Internet of Things (IoT) and Augmented Reality (AR)
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
